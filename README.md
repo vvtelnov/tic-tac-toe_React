@@ -23,11 +23,11 @@ Welcome to **[Tic-Tac-Toe](https://vvtelnov.github.io/tic-tac-toe_React)**! This
 
 ## Features
 
-🎮 Interactive Gameplay: Enjoy a classic game of Tic-Tac-Toe with a user-friendly interface that allows players to take turns easily.
-🔁 Restart and Rematch: Quickly start a new game or rematch your opponent with the click of a button. No need to reload the game.
-🚀 Optimized Performance: Experience smooth and lag-free gameplay thanks to optimized code and efficient algorithms.
-📦 Easy Installation: Get started quickly with easy-to-follow installation instructions in the project's documentation.
-🧩 Open-Source: This project is open-source, allowing you to explore the code, contribute, or customize it to suit your needs.
+- 🎮 Interactive Gameplay: Enjoy a classic game of Tic-Tac-Toe with a user-friendly interface that allows players to take turns easily.
+- 🔁 Restart and Rematch: Quickly start a new game or rematch your opponent with the click of a button. No need to reload the game.
+- 🚀 Optimized Performance: Experience smooth and lag-free gameplay thanks to optimized code and efficient algorithms.
+- 📦 Easy Installation: Get started quickly with easy-to-follow installation instructions in the project's documentation.
+- 🧩 Open-Source: This project is open-source, allowing you to explore the code, contribute, or customize it to suit your needs.
 
 These features make our chess project not only a traditional Tic-Tac-Toe-playing experience but also a versatile and enjoyable platform.
 ## Installation
