@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe 
+## Table of Contents
+- [Introduction](#introduction)
+- [Stack](#stack)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to **[Tic-Tac-Toe](https://vvtelnov.github.io/tic-tac-toe_React)**! This is a Tic-Tac_Toe game, built using JavaScript and React.
 
-In the project directory, you can run:
+## Stack
 
-### `npm start`
+- HTML5 CSS3
+- React.js
+- JavaScript
+- Babel
+- npm
+- GIT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🎮 Interactive Gameplay: Enjoy a classic game of Tic-Tac-Toe with a user-friendly interface that allows players to take turns easily.
+🔁 Restart and Rematch: Quickly start a new game or rematch your opponent with the click of a button. No need to reload the game.
+🚀 Optimized Performance: Experience smooth and lag-free gameplay thanks to optimized code and efficient algorithms.
+📦 Easy Installation: Get started quickly with easy-to-follow installation instructions in the project's documentation.
+🧩 Open-Source: This project is open-source, allowing you to explore the code, contribute, or customize it to suit your needs.
 
-### `npm test`
+These features make our chess project not only a traditional Tic-Tac-Toe-playing experience but also a versatile and enjoyable platform.
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this project locally, follow these steps:
 
-### `npm run build`
+1. Clone the repository
+```
+   git clone git@github.com:vvtelnov/tic-tac-toe_React.git
+```
+2. Install dependencies
+```
+   npm install
+```
+3. Start the development server
+```
+   npm start
+```
+4. [Open the project in your browser]
+```
+   Open your web browser and go to http://localhost:3000/
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Welcome to our chess game! Follow these steps to get started and make your moves:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Launch the Game:**
+   - Open your web browser and navigate to the URL where the game is hosted.
 
-### `npm run eject`
+2. **Start a New Game:**
+   - When you first open the game, the game has already been started.
+   - You are supposed to play for two sides at the same time.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Interface:**
+   - The game interface consists of a standard 3x3 chessboard.
+   - Player turns are displayed on the board.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. **Making a Move:**
+   - To make a move, click on the cell you want to place mark.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. **Winning and losing:**
+   - The game will check for wins.
+   - If a player wins, it will be indicated.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+6. **Move History:**
+   - The game keeps a record of all moves made during the game at the right side.
+   - You can click on the turns to jump to that turn.
 
-## Learn More
+Enjoy your game and have fun strategizing your moves!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
+Contributions are welcome! If you'd like to contribute to [Project Name], please follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the project repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Create a pull request and describe your changes.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+open-source / MIT license.
